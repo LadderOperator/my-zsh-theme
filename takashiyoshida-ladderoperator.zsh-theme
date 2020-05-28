@@ -7,7 +7,7 @@
 PROMPT_BRACKET_BEGIN='%{$fg_bold[white]%}['
 PROMPT_HOST='%{$fg_bold[blue]%}%m'
 PROMPT_SEPARATOR='%{$reset_color%}:'
-PROMPT_DIR='%{$fg_bold[cyan]%}%c'
+PROMPT_DIR='%{$fg_bold[cyan]%}%d'
 PROMPT_BRACKET_END='%{$fg_bold[white]%}]'
 PROMPT_TIME='%{$fg_bold[yellow]%}%*'
 
