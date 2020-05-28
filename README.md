@@ -1,7 +1,7 @@
 ## Installation
 
 ```shell
-$ git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+$ git clone https://github.com/LadderOperator/my-zsh-theme.git ~/.oh-my-zsh/custom/themes/takashiyoshida-ladderoperator
 vi ~/.zshrc
 ```
 
