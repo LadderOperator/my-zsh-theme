@@ -1,7 +1,7 @@
 ## Installation
 
 ```shell
-$ git clone https://github.com/LadderOperator/my-zsh-theme.git ~/.oh-my-zsh/custom/themes/takashiyoshida-ladderoperator
+git clone https://github.com/LadderOperator/my-zsh-theme.git ~/.oh-my-zsh/custom/themes/takashiyoshida-ladderoperator
 vi ~/.zshrc
 ```
 
